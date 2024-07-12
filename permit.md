@@ -2,7 +2,7 @@
 - **Category:** DeFi
 
 ### Smart Contract:
-- **Name:** ERC20Permit
+- **Name:** draft-ERC20Permit.sol
 - **Block Explorer Link:** https://etherscan.io/token/0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab#code
 
 ### Function Analysis
